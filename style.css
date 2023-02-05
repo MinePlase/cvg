@@ -6,6 +6,4 @@ body {
   background: #099;
   font-family: 'Sofia Sans Extra Condensed';
 }
-p {text-align: center;}
-h1 {text-align: center;}
-h2 {text-align: center;}
+body {text-align: center;}
